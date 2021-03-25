@@ -52,13 +52,13 @@ ul li{
     text-align: center;
     line-height: 50px;
     border-radius: 50px;
-    box-shadow: 3px 2px 15px rgba(77, 43, 43, 0.10), -5px -6px 8px rgba(255, 255, 255, .50), inset 30px 30px 25px rgba(77, 43, 43, 0.025);
+    box-shadow: 3px 2px 15px rgb(77 43 43 / 5%), -5px -6px 8px rgb(255 255 255 / 30%), inset 30px 30px 25px rgb(77 43 43 / 1%);
 }
 
 ul li:active{
     position: relative;
     top: 5px;
-    box-shadow: 3px 2px 15px rgba(77, 43, 43, 0.10), -5px -6px 8px rgba(255, 255, 255, .50), inset 30px 30px 25px rgba(77, 43, 43, 0.025);
+    box-shadow: 3px 2px 15px rgb(77 43 43 / 5%), -5px -6px 8px rgb(255 255 255 / 30%), inset 30px 30px 25px rgb(77 43 43 / 1%);
 }
 
 ul li:nth-child(16){
