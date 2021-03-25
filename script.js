@@ -17,7 +17,7 @@ $lis.forEach((node) => {
         }
 
         if(value.toLowerCase() == 'c') {
-            $result.innerText = ''
+            $result.innerText = '0'
             return true
         }
                     
